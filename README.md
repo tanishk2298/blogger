@@ -7,6 +7,7 @@ This website is the front-end of a single page blog website. It displays the rec
 * HTML
 * CSS
 * JavaScript
+* ES7
 
 ### Demo : 
 
